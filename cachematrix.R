@@ -4,7 +4,7 @@
 ## Write a short comment describing this function
 ## makeCacheMatrix function is used to cache the inverse of a Matrix.
 ## Below are a pair of functions that are used to create a special object that 
-## stores a matrix and caches its inverse.
+## stores a matrix and caches its inverse.#
 
 makeCacheMatrix <- function(x = matrix()) {
   j <- NULL
